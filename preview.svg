@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" rx="32" fill="#111827"/>
+  <rect x="70" y="70" width="1060" height="490" rx="24" fill="#1f2937"/>
+  <circle cx="300" cy="315" r="120" fill="#4f46e5"/>
+  <path d="M240 255h120v40H280v40h80v40H280v40h80v40H240z" fill="white"/>
+  <text x="470" y="285" font-family="Segoe UI, Arial, sans-serif" font-size="44" fill="#ffffff">Asante Alexander</text>
+  <text x="470" y="345" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#a5b4fc">Solutions</text>
+  <text x="470" y="405" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#cbd5e1">Modern web design • software • digital services</text>
+</svg>
